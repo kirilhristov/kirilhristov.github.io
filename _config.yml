@@ -9,7 +9,7 @@ name: Charles Ashby
 description: (not) Just another Deep Learning Blog
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
-avatar: {{ site.baseurl }}/images/rss.gif
+avatar: https://github.com/charlesashby/charlesashby.github.io/images/rss.gif
 
 #
 # Flags below are optional
