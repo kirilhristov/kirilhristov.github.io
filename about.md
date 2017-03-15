@@ -4,12 +4,7 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+##### BIO
 
-### More Information
+I am Charles Ashby, I'll be starting my M.Sc in artificial intelligence at University of Montreal next autumn, I'm mostly interested in generative models especially recurrent neural networks, you can find my CV [here](charlesashby.github.io/charlesashby_cv.pdf).  
 
-A place to include any other types of information that you'd like to include about yourself.
-
-### Contact me
-
-[email@domain.com](mailto:email@domain.com)
